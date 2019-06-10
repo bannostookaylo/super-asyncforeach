@@ -1,0 +1,24 @@
+{
+  "name": "super-asyncforeach",
+  "version": "1.0.1",
+  "description": "An asyncForEach method with some handy feature such as break and redo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bannostookaylo/super-asyncforeach.git"
+  },
+  "keywords": [
+    "async",
+    "foreach",
+    "loop"
+  ],
+  "author": "Banning Stuckey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bannostookaylo/super-asyncforeach/issues"
+  },
+  "homepage": "https://github.com/bannostookaylo/super-asyncforeach#readme"
+}
